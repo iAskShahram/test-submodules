@@ -1,0 +1,6 @@
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/iAskShahram/test-submodules-webapp.git
+[submodule "mobileapp"]
+	path = mobileapp
+	url = https://github.com/iAskShahram/test-submodules-mobileapp.git
